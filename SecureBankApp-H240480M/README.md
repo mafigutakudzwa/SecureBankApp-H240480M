@@ -1,4 +1,4 @@
-# BankApp-H240410M
+# BankApp-H240480M
 
 ### Description
 BankApp is a straightforward console banking system built in Java.  
@@ -7,7 +7,7 @@ All data is stored locally using text files for simplicity.
 
 ### Student Details
 - **Name:** Takudzwa Mafigu  
-- **Registration Number:** H240410M  
+- **Registration Number:** H240480M  
 
 ### Features
 - User registration and secure login  
